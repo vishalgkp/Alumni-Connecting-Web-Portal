@@ -64,7 +64,7 @@ String userEmail  = request.getParameter("email_id");
 		 	// __________________EMAIL________________________ 
 		  
 		 final String senderEmailId = "vk601542@gmail.com";
-		 final String password = "vk601542";
+		 final String password = "xyz";
 
 		 Properties props = new Properties();
 		 props.put("mail.smtp.auth", "true");
